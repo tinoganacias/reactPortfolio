@@ -1,0 +1,11 @@
+body {
+  margin: 0;
+  font-family:monospace;
+  background-image: url("assets/seattle-sunset-1227916.jpg");
+  background-size:cover;
+  color:black;
+}
+
+code {
+  font-family:monospace;
+}

@@ -1,0 +1,40 @@
+
+
+.footer{
+  margin-bottom:0px;
+  display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top:20px;
+}
+.nav-bar {
+  background-color:black;
+  height: 25px;
+  display: grid;
+  
+  
+}
+
+
+
+
+
+
+
+.portfolio {
+  font-size: 10px;
+  margin: 10px;
+}
+
+.links {
+  
+  
+  margin-left:260px;
+color: whitesmoke;
+  font-size: 12px;
+}
+
+
+
+
+

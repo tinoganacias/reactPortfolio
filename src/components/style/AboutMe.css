@@ -1,0 +1,19 @@
+.profile-pic{
+    height: 150px;
+border-radius: 25px;
+border: black 5px solid;
+}
+
+.profile {
+    display: block;
+    flex-wrap: wrap;
+    margin: 30px;
+}
+
+#name {
+   font-family: monospace;
+    margin: 20px;
+    margin-left: 0%;
+    color:black
+}
+

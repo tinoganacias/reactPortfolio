@@ -1,0 +1,27 @@
+.cards {
+    
+    margin: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+
+    box-shadow: black 10px 5px 5px;
+    
+ 
+}
+.card-body {
+    text-align: center;
+    
+}
+
+
+    
+
+
+.card-title {
+    font-size: 30px;
+}
+
+.card-lang {
+    font-size: 20px;
+}
