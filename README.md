@@ -27,6 +27,13 @@ This is my portfolio utilizing React.js.  It contains work samples and contact l
 
 ![image](https://user-images.githubusercontent.com/84544540/132585351-78ed1f6a-e072-41d2-b0be-66a3da19e4d1.png)
 
+## License 
+
+Licensed under the MIT License
+
+## Links
+
+Application is accessible at: https://react-portfolio-tg.herokuapp.com/Resume
 
 
 
