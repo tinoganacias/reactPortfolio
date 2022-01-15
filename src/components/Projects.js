@@ -7,7 +7,7 @@ const Projects = () => {
     const [portfolioCards] = useState([
         {
             link:"https://github.com/tinoganacias/baseball2021",
-            image: "https://raw.githubusercontent.com/tinoganacias/reactPortfolio/main/src/assets/catcher_screenshot.png",
+            image: "https://github.com/tinoganacias/reactPortfolio/blob/main/src/assets/catcher_screenshot.png?raw=true",
             title: "Fantasy Baseball 2021 MySQL Database",
             languages: "MySQL",
             description: "This is a Major League Baseball Database for the 2021 season.  It is geared towards the hardcore fantasy baseball manager untilizing MySQL."
